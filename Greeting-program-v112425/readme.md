@@ -36,4 +36,5 @@ Hello, Ellen!
 python greeting.py
 ```
 
-Enjoy! 😊
+Enjoy!
+
