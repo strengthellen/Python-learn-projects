@@ -37,4 +37,3 @@ python greeting.py
 ```
 
 Enjoy! 😊
-```
